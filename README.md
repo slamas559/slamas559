@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slamas559" alt="slamas559" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://www.x.com/@abdulsalam2898" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.x.com/@abdulsalam2898?logo=twitter&style=for-the-badge" alt="https://www.x.com/@abdulsalam2898" /></a> </p>
+<p align="left"> <a href="https://www.x.com/@abdulsalam2898" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.x.com/@abdulsalam2898?logo=twitter&style=for-the-badge" alt="https://www.x.com/@abdulsalam2898" /></a> </p>
 
 - 🔭 I’m currently working on [Boardly](http://boardly-chi.vercel.app/)
 
@@ -21,15 +21,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://www.dev.to/salam_abdulsalam_e4f3a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.dev.to/salam_abdulsalam_e4f3a5" height="30" width="40" /></a>
-<a href="https://twitter.com/https://www.x.com/@abdulsalam2898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.x.com/@abdulsalam2898" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salam-abdulsalam-5a0b08278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salam-abdulsalam-5a0b08278/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26670845/salam-abdulsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26670845/salam-abdulsalam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/salamabayomi505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/salamabayomi505/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@abdulsalamabayomi300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@abdulsalamabayomi300" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/slamas53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/slamas53" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abdulsalamabayo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdulsalamabayo2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/slamas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/slamas/" height="30" width="40" /></a>
+<a href="https://www.dev.to/salam_abdulsalam_e4f3a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.dev.to/salam_abdulsalam_e4f3a5" height="30" width="40" /></a>
+<a href="https://www.x.com/@abdulsalam2898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.x.com/@abdulsalam2898" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salam-abdulsalam-5a0b08278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salam-abdulsalam-5a0b08278/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26670845/salam-abdulsalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26670845/salam-abdulsalam" height="30" width="40" /></a>
+<a href="https://fb.com/salamabayomi505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/salamabayomi505/" height="30" width="40" /></a>
+<a href="https://medium.com/@abdulsalamabayomi300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@abdulsalamabayomi300" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/slamas53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/slamas53" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/abdulsalamabayo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abdulsalamabayo2" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/slamas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/slamas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
